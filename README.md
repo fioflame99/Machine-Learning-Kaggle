@@ -33,3 +33,7 @@ store - Store ID
 item - Item ID
 
 sales - Number of items sold at a particular store on a particular date.
+
+## Model
+![image](https://github.com/fioflame99/CZ4041-Machine-Learning/assets/90178344/2ada7662-a7b8-439e-85aa-1bef9b13398d)
+
