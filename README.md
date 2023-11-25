@@ -1,4 +1,4 @@
-# Machine-Learning-Kaggle
+# Machine-Learning: Kaggle
 Store Item Demand Forecasting Challenge 
 
 This competition is provided as a way to explore different time series techniques on a relatively simple and clean dataset.
